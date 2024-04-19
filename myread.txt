@@ -1,0 +1,1 @@
+jika insert data berhasil namun data tidak masuk ke dalam table maka buat stiap column nullable
